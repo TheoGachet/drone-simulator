@@ -1,0 +1,3 @@
+Bio-Robotic Fly Vision Simulation
+
+This project aims to simulate the vision and behavior of flies through the development of a bio-robot. By leveraging biomimicry principles and advanced computational tools, we replicate the patterns and movements observed in flies. The simulation focuses on the interaction between the photoreceptors of the fly's eye and its perceived environment. Through the use of Gaussian sensitivity functions and precise calibration, we accurately replicate the photoreceptors' response to different shades of gray. This project demonstrates the potential of biomimetic approaches in robotics and provides insights into the complex visual systems of insects.
